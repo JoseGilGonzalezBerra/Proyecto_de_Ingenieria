@@ -1,97 +1,19 @@
-# 🚀 Comandos básicos de Git (primeros pasos)
-
-En este curso solo usaremos los comandos esenciales de Git para trabajar con repositorios.
+# **Acerca de mi**
 
 ---
 
-## 1. Clonar un repositorio
+## **¿Quién soy?**
 
-Copia un proyecto de GitHub a tu computadora.
-
-```bash
-git clone https://github.com/usuario/repositorio.git
-```
+Me llamo Jose Gil GOnzález Berra, tengo 17 años, actualmente estoy estudiando la carrera de Ingeniería Mecatrónica en la Universidad IBERO, yo elegí esta carrera porque combina varias áreas que me parecen muy interesantes y con mucha presencia en varias areas de la actualidad: la electrónica, la mecánica, la informática y el control. Esta carrera me permite desarrollar soluciones innovadoras, crear tecnología y mejorar procesos en distintas industrias. Además, es un campo con gran futuro, ya que los sistemas automatizados y la robótica están transformando al mundo. Me motiva la idea de diseñar y construir proyectos que tengan un impacto real en la vida de las personas.
 
 ---
 
-## 2. Verificar cambios
+## **Mis gustos**
 
-Muestra qué archivos has modificado o agregado.
-
-```bash
-git status
-```
+Me considero una persona que le gusta la tecnología, ya que me gusta conocer los avances que facilitan la vida y explorar cómo funcionan los dispositivos tecnologicos que usamos. También disfruto practicar y ver deportes, porque me permiten mantenerme activo y desarrollar disciplina. La música es otra parte importante de mis gustos, ya que me acompaña en diferentes momentos. Además, los videojuegos son una de mis principales aficiones, ya que me permiten divertirme, retarme y conectar con otras personas que comparten la misma pasión.
 
 ---
 
-## 3. Preparar cambios
+## **¿Donde me veo en 10 años?**
 
-Agrega archivos para guardarlos en el próximo commit.
-
-```bash
-git add archivo.txt
-git add .   # agrega todos los archivos modificados
-```
-
----
-
-## 4. Guardar cambios (commit)
-
-Guarda tus cambios con un mensaje descriptivo.
-
-```bash
-git commit -m "Descripción breve de los cambios"
-```
-
----
-
-## 5. Subir cambios al repositorio (push)
-
-Envía tus commits locales al repositorio en GitHub.
-
-```bash
-git push origin main
-```
-
----
-
-## 6. Traer cambios del remoto (pull)
-
-Actualiza tu proyecto con los últimos cambios de GitHub.
-
-```bash
-git pull origin main
-```
-
----
-## Flujo típico de trabajo
-
-![Diagrama de flujo de Git](recursos/imgs/git_diagram.png)
-
-1. **Traer cambios del remoto**  
-   ```bash
-   git pull origin main
-   ```
-
-2. **Editar** tus archivos de proyecto.
-
-3. **Preparar los cambios**  
-   ```bash
-   git add .
-   ```
-
-4. **Guardar los cambios**  
-   ```bash
-   git commit -m "Mensaje descriptivo"
-   ```
-
-5. **Enviar los cambios al remoto**  
-   ```bash
-   git push origin main
-   ```
-
----
-
-!!! tip "Consejo"
-    Piensa en este ciclo como un **loop infinito**:  
-    cada vez que quieras contribuir → primero `pull`, después `add` + `commit`, y finalmente `push`.
+En 10 años me veo como un ingeniero mecatrónico consolidado, con experiencia en proyectos innovadores que combinen la robótica, la automatización y la tecnología aplicada a la industria. Me imagino trabajando en una empresa reconocida, donde pueda diseñar soluciones que faciliten la vida de las personas y optimicen procesos. Además, me visualizo siguiendo en constante aprendizaje, actualizándome en nuevas tecnologías y quizá cursando una maestría. Estudiar en la IBERO Puebla me dará la preparación y las herramientas necesarias para alcanzar ese futuro y desarrollarme tanto profesional como personalmente.
