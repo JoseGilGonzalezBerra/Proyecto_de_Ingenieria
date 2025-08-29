@@ -5,3 +5,4 @@
 
 ## Syllabus de la Asignatura
 
+<object data="recursos/archivos/" type="application/pdf"
