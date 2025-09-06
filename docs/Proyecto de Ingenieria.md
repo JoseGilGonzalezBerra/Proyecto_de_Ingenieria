@@ -5,5 +5,5 @@
 
 ## Syllabus de la Asignatura
 
-<archive src ="recursos/archivos/syllabus1.pdf">
+<object data="recursos/archivos/syllabus1.pdf">
   
