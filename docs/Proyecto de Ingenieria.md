@@ -11,6 +11,7 @@
 
 [Descargar especificación (PDF)](recursos/archivos/syllabus1.pdf)
 
-<object data="recursos/archivos/syllabus1.pdf"  width="100%" height="600">
+<object data="recursos/archivos/syllabus1.pdf">
+  
   <p>No se pudo mostrar el PDF. <a href="recursos/archivos/syllabus1.pdf">Descargar</a></p>
 </object>
