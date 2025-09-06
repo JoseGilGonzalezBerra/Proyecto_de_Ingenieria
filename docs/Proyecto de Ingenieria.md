@@ -6,3 +6,5 @@
 ## Syllabus de la Asignatura
 
 <object data="recursos/archivos/Syllabus 1.pdf">
+
+(recursos/archivos/Syllabus 1.pdf)
