@@ -4,7 +4,7 @@
 
 ## **¿Quién soy?**
 
-Me llamo Jose Gil GOnzález Berra, tengo 17 años, actualmente estoy estudiando la carrera de Ingeniería Mecatrónica en la Universidad IBERO, yo elegí esta carrera porque combina varias áreas que me parecen muy interesantes y con mucha presencia en varias areas de la actualidad: la electrónica, la mecánica, la informática y el control. Esta carrera me permite desarrollar soluciones innovadoras, crear tecnología y mejorar procesos en distintas industrias. Además, es un campo con gran futuro, ya que los sistemas automatizados y la robótica están transformando al mundo. Me motiva la idea de diseñar y construir proyectos que tengan un impacto real en la vida de las personas.
+Me llamo Jose Gil González Berra, tengo 17 años, actualmente estoy estudiando la carrera de Ingeniería Mecatrónica en la Universidad IBERO, yo elegí esta carrera porque combina varias áreas que me parecen muy interesantes y con mucha presencia en varias areas de la actualidad: la electrónica, la mecánica, la informática y el control. Esta carrera me permite desarrollar soluciones innovadoras, crear tecnología y mejorar procesos en distintas industrias. Además, es un campo con gran futuro, ya que los sistemas automatizados y la robótica están transformando al mundo. Me motiva la idea de diseñar y construir proyectos que tengan un impacto real en la vida de las personas.
 
 ---
 
