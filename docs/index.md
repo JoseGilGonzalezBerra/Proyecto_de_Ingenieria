@@ -12,3 +12,6 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
    site_name: Documentación del Curso
    theme:
      name: material
+
+
+<img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" >
