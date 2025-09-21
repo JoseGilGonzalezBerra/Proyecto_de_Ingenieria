@@ -2,27 +2,30 @@
 
 **En esta sección puedes encontrar todos mis trabajos semanales**
 
-## **Ejercicio 1 (05/09/2025)**
+## **Ejercicio 1 **
 
 - Descripción: Hicimos una pieza en solidworks
 
 <img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" >
 
+[Ejercicio 1](recursos/archivos/Ejercicio_5.SLDPRT)
 
-## **Trabajo Semana 2 (-)**
+## **Soporte de Madera **
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
 <img src = "./recursos/imgs/soportemadera.png" alt="soportemadera" >
 
 
-## **Floreros (-)**
+## **Ejercicio Floreros **
 
-- Descripcion: Creación de floreros
+- Descripcion: Creación de floreros en SolidWorks
+
+  
+[Ejercicio Floreros](recursos/archivos/Floreros.SLDPRT)
 
 
-
-## **Ejercicio 5 (-)**
+## **Ejercicio 5 **
 
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
