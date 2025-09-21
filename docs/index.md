@@ -6,7 +6,7 @@
 
 - Descripción: Hicimos una pieza en solidworks
 
-<img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" >
+<img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" width="420">
 
 [Ejercicio 1](recursos/archivos/Ejercicio_5.SLDPRT)
 
@@ -20,7 +20,7 @@
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
-<img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" >
+<img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="420">
 
 
 ## **Ejercicio Floreros**
