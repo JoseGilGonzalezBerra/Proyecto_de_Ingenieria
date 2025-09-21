@@ -20,7 +20,7 @@
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
-<img src = "./recursos/imgs/soportemadera.png" alt="soportemadera" >
+<img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" >
 
 
 ## **Ejercicio Floreros**
