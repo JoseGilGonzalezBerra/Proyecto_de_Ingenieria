@@ -16,8 +16,8 @@
 <img src = "./recursos/imgs/soportemadera.png" alt="soportemadera" >
 
 
-<object data="recursos/archivos/Calendario.pdf" type="application/pdf" width="100%" height="600">
-  <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/Calendario.pdf">Descargar</a></p>
+<object data="recursos/archivos/Ejercicio_5.SLDPRT" type="application/pdf" width="100%" height="600">
+  <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/Ejercicio_5.SLDPRT">Descargar</a></p>
 </object>
 
 ## **Trabajo Semana 3 (-)**
