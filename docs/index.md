@@ -13,8 +13,9 @@
 
 ## **Ejercicio 2**
 
+- Disculpe que no haya imagen, no me dejo abrir el archivo en mi laptop porque me dice que es una version mas nuevo de Solid que la que tengo
 
-
+[Ejercicio 2](recursos/archivos/Ejercicio2.SLDPRT)
 
 ## **Soporte de Madera**
 
