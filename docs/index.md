@@ -5,7 +5,7 @@
 
 ## **Ejercicio 1**
 
-- Descripción: Hicimos una pieza en solidworks
+- Descripción: Hicimos una pieza en SolidWorks
 
 <img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" width="420">
 
@@ -15,6 +15,7 @@
 
 ## **Ejercicio 2**
 
+- Descripción: Hicimos el Ejercicio 2 en SolidWorks
 
 <img src = "./recursos/imgs/Ejercicio2.png" alt="Ejercicio2" width="420">
 
@@ -44,7 +45,7 @@
 
 ## **Ejercicio 5**
 
-- Disculpe que no haya imagen, no me dejo abrir el archivo en mi laptop porque me dice que es una version mas nuevo de Solid que la que tengo
+- Descripción: Hicimos el Ejercicio 5 en SolidWorks
 
 <img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
 
