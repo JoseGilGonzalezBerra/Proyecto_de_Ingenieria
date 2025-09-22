@@ -29,7 +29,7 @@
 
 <img src = "./recursos/imgs/Florero.jpeg" alt="Florero" width="420">
   
-[Ejercicio Floreros](recursos/archivos/Floreros.SLDPRT)
+[Ejercicio Floreros](recursos/archivos/Florero.SLDPRT)
 
 
 ## **Ejercicio 5**
