@@ -26,7 +26,8 @@
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
 <img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="300">
-<>
+<img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
+<img src = "./recursos/imgs/spm2.jpeg" alt="soportemadera" width="300">
 
 ---
 
