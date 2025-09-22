@@ -27,6 +27,7 @@
 
 - Descripcion: Creación de floreros en SolidWorks
 
+<img src = "./recursos/imgs/florero.jpeg" alt="florero" width="420">
   
 [Ejercicio Floreros](recursos/archivos/Floreros.SLDPRT)
 
