@@ -1,7 +1,7 @@
-**Trabajos Semanales**
+# **Trabajos Semanales**
 
 **En esta sección puedes encontrar todos mis trabajos semanales**
----
+
 
 ## **Ejercicio 1**
 
