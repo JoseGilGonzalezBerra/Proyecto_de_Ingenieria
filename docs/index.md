@@ -1,6 +1,7 @@
 # **Trabajos Semanales**
 
 **En esta sección puedes encontrar todos mis trabajos semanales**
+---
 
 ## **Ejercicio 1**
 
@@ -10,6 +11,7 @@
 
 [Ejercicio 1](recursos/archivos/Ejercicio_5.SLDPRT)
 
+---
 
 ## **Ejercicio 2**
 
@@ -17,12 +19,16 @@
 
 [Ejercicio 2](recursos/archivos/Ejercicio2.SLDPRT)
 
+---
+
 ## **Soporte de Madera**
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
-<img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="420">
+<img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="300">
+<>
 
+---
 
 ## **Ejercicio Floreros**
 
@@ -32,6 +38,7 @@
   
 [Ejercicio Floreros](recursos/archivos/Florero.SLDPRT)
 
+---
 
 ## **Ejercicio 5**
 
