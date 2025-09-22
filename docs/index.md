@@ -37,7 +37,7 @@
 
 - Disculpe que no haya imagen, no me dejo abrir el archivo en mi laptop porque me dice que es una version mas nuevo de Solid que la que tengo
 
-[Ejercicio 5](recursos/archivos/Ejercicio5.SLDPRT)
+[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
 
 
