@@ -31,6 +31,17 @@
 <img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm2.jpeg" alt="soportemadera" width="300">
 
+
+
+https://github.com/user-attachments/assets/3d614940-7615-415a-9cfe-46e93754d84f
+
+
+
+https://github.com/user-attachments/assets/624b2671-3dec-481e-8ef6-ae6b2bcfb9c9
+
+
+
+
 ---
 
 ## **Ejercicio Floreros**
