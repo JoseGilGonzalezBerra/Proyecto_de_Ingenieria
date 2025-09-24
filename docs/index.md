@@ -40,6 +40,7 @@
 <img src = "./recursos/imgs/spm2.jpeg" alt="soportemadera" width="300">
 
 [Video de Maquinas](recursos/archivos/Maquina1.mp4)
+
 [Maquina 2](recursos/archivos/Maquina2.mp4)
 
 
