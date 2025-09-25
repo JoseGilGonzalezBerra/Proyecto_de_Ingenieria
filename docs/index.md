@@ -52,7 +52,7 @@
 
 <img src = "./recursos/imgs/Florero1.jpeg" alt="Florero" width="420">
   
-[Ejercicio Macetas](recursos/archivos/Florero1.SLDPRT)
+[Ejercicio Florero](recursos/archivos/Florero1.SLDPRT)
 
 
 ---
