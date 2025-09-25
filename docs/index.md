@@ -46,13 +46,24 @@
 
 ---
 
+## **Ejercicio Florero**
+
+-Descripción: Creación de florero en SolidWorks
+
+<img src = "./recursos/imgs/Florero1.jpeg" alt="Florero" width="420">
+  
+[Ejercicio Macetas](recursos/archivos/Florero1.SLDPRT)
+
+
+---
+
 ## **Ejercicio Macetas**
 
 - Descripcion: Creación de Macetas en SolidWorks
 
 <img src = "./recursos/imgs/Florero.jpeg" alt="Florero" width="420">
   
-[Ejercicio Floreros](recursos/archivos/Florero.SLDPRT)
+[Ejercicio Macetas](recursos/archivos/Florero.SLDPRT)
 
 ---
 
