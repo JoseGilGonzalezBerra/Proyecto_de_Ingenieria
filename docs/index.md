@@ -1,5 +1,23 @@
 # **Trabajos Semanales**
 
+<ul class="menu-principal">
+  <li><a href="#">Syllabus de la materia</a></li>
+  <li><a href="#">Ejercicio 1</a></li>
+  <li><a href="#">Ejercicio 2</a></li>
+
+  <li class="has-submenu">
+    <a href="#">Soporte de Madera</a>
+    <span class="flecha-desplegable">v</span> 
+    
+    <ul class="submenu">
+      <li><a href="#">Ejercicio Florero</a></li>
+      <li><a href="#" class="enlace-activo">Ejercicio Macetas</a></li> 
+    </ul>
+  </li>
+
+  <li><a href="#">Ejercicio 5</a></li>
+</ul>
+
 **En esta sección puedes encontrar todos mis trabajos semanales**
 
 ## Syllabus de la materia
