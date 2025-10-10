@@ -91,7 +91,7 @@
 
 ## **Grabado Laser Logo en Soporte de Celular **
 
-- Descripción: Grabamos un logotipo de nuestra eleccion en el soporte de madera que hicimos en la semana 3
+- Descripción: 
 
 <img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
 
@@ -100,10 +100,20 @@
 
 ## **Corte Laser en MDF y ensamble**
 
-- Descripción: Grabamos un logotipo de nuestra eleccion en el soporte de madera que hicimos en la semana 3
+- Descripción: 
 
 <img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
+---
 
+# **Semana 6**
+
+## **Impresion 3D**
+
+- Descripción: 
+
+<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
+
+[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
