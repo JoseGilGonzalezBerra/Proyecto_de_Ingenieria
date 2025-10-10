@@ -11,3 +11,14 @@ Aristarco Adalberto Cortes Martin
 </object>
 
 [Syllabus de la materia](recursos/archivos/Syllabus.pdf)
+
+
+## **Ejercicio 1**
+
+- Descripción: Hicimos una pieza en SolidWorks
+
+<img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" width="420">
+
+[Ejercicio 1](recursos/archivos/Ejercicio_5.SLDPRT)
+
+---
