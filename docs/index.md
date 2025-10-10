@@ -89,7 +89,7 @@
 
 # **Semana 5**
 
-## **Grabado Laser Logo en Soporte de Celular **
+## **- Grabado Laser Logo en Soporte de Celular**
 
 - Descripción: 
 
@@ -98,7 +98,7 @@
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
 
-## **Corte Laser en MDF y ensamble**
+## **- Corte Laser en MDF y ensamble**
 
 - Descripción: 
 
