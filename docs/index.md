@@ -2,9 +2,11 @@
 
 **En esta sección puedes encontrar todos mis trabajos semanales**
 
+---
+
 # **Semana 1**
 
-## **Syllabus de la materia (Semana 1)**
+## **- Syllabus de la materia**
 
 <object data="recursos/archivos/syllabus1.pdf" type="application/pdf" width="100%" height="600">
   <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/syllabus1pdf">Descargar</a></p>
@@ -12,9 +14,11 @@
 
 [Syllabus de la materia](recursos/archivos/Syllabus.pdf)
 
+---
+
 # **Semana 2**
 
-## **Ejercicio 1 (Semana 2)**
+## **- Ejercicio 1 (Semana 2)**
 
 - Descripción: Hicimos una pieza en SolidWorks
 
@@ -24,7 +28,7 @@
 
 ---
 
-## **Ejercicio 2 (Semana 2)**
+## **- Ejercicio 2 (Semana 2)**
 
 - Descripción: Hicimos el Ejercicio 2 en SolidWorks
 
@@ -33,10 +37,11 @@
 [Ejercicio 2](recursos/archivos/Ejercicio2.SLDPRT)
 
 ---
+
 # **Semana 3**
 
 
-## **Soporte de Madera (Semana 3)**
+## **- Soporte de Madera (Semana 3)**
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
