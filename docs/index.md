@@ -2,7 +2,9 @@
 
 **En esta sección puedes encontrar todos mis trabajos semanales**
 
-## Syllabus de la materia
+# **Semana 1**
+
+## **Syllabus de la materia (Semana 1)**
 
 <object data="recursos/archivos/syllabus1.pdf" type="application/pdf" width="100%" height="600">
   <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/syllabus1pdf">Descargar</a></p>
@@ -10,8 +12,9 @@
 
 [Syllabus de la materia](recursos/archivos/Syllabus.pdf)
 
+# **Semana 2**
 
-## **Ejercicio 1**
+## **Ejercicio 1 (Semana 2)**
 
 - Descripción: Hicimos una pieza en SolidWorks
 
@@ -21,7 +24,7 @@
 
 ---
 
-## **Ejercicio 2**
+## **Ejercicio 2 (Semana 2)**
 
 - Descripción: Hicimos el Ejercicio 2 en SolidWorks
 
@@ -30,8 +33,10 @@
 [Ejercicio 2](recursos/archivos/Ejercicio2.SLDPRT)
 
 ---
+# **Semana 3**
 
-## **Soporte de Madera**
+
+## **Soporte de Madera (Semana 3)**
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
 
@@ -46,7 +51,9 @@
 
 ---
 
-## **Ejercicio Florero**
+# **Semana 4**
+
+## **Ejercicio Florero (Semana 4)**
 
 -Descripción: Creación de florero en SolidWorks
 
@@ -57,7 +64,7 @@
 
 ---
 
-## **Ejercicio Macetas**
+## **Ejercicio Macetas (Semana 4)**
 
 - Descripcion: Creación de Macetas en SolidWorks
 
@@ -67,7 +74,7 @@
 
 ---
 
-## **Ejercicio 5**
+## **Ejercicio 5 (Semana 4)**
 
 - Descripción: Hicimos el Ejercicio 5 en SolidWorks
 
@@ -75,5 +82,23 @@
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
+# **Semana 5**
+
+## **Grabado Laser Logo en Soporte de Celular **
+
+- Descripción: Grabamos un logotipo de nuestra eleccion en el soporte de madera que hicimos en la semana 3
+
+<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
+
+[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
+
+
+## **Corte Laser en MDF y ensamble**
+
+- Descripción: Grabamos un logotipo de nuestra eleccion en el soporte de madera que hicimos en la semana 3
+
+<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
+
+[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
 
