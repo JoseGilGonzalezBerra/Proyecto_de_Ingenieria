@@ -93,7 +93,8 @@
 
 - Descripción: 
 
-<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
+<img src = "./recursos/imgs/Ejercicio5.jpeg" alt="LogoSoporte1" width="420">
+<img src = "./recursos/imgs/Ejercicio5.jpeg" alt="LogoSoporte2" width="420">
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
