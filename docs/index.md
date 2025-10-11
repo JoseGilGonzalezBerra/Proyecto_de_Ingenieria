@@ -103,7 +103,7 @@
 
 - Descripción: 
 
-<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="420">
+<img src = "./recursos/imgs/CorteLaser1.png" alt="CorteLaser1" width="420">
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
