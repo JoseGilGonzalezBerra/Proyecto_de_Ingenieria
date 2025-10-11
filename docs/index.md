@@ -96,7 +96,8 @@
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
 
-[Archivo del logo en STL](recursos/archivos/logocel_JoseGil(1).DXF)
+
+[Archivo del logo en STL](recursos/archivos/logocel_JoseGil1).DXF)
 
 
 ## **- Corte Laser en MDF y ensamble**
@@ -110,10 +111,9 @@
 
 https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
 
+[Plano Nave Star Wars en Solid](recursos/archivos/)
+[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea1.DXF)
 
-
-
-[Plano Nave Star Wars](recursos/archivos/Ejercicio_5.SLDPRT)
 
 ---
 
@@ -123,7 +123,11 @@ https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
 
 - Descripción: 
 
-<img src = "./recursos/imgs/Impresion3D1.jpeg" alt="Ejercicio5" width="300">
-<img src = "./recursos/imgs/Impresion3D2.jpeg" alt="Ejercicio5" width="300">
+<img src = "./recursos/imgs/Impresion3D1.jpeg" alt="Impresion3D" width="300">
+<img src = "./recursos/imgs/Impresion3D2.jpeg" alt="Impresion3D" width="300">
+<img src = "./recursos/imgs/Impresion3D3.jpeg" alt="Impresion3D" width="300">
 
-[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
+
+[Muñeco3D Archivo en Solid](recursos/archivos/)
+[Muñeco3D Archivo en STL](recursos/archivos/)
+[Muñeco3D Archivo en Gcode](recursos/archivos/CE3S1PRO_Pieza3D_MuñecoGil.gcode)
