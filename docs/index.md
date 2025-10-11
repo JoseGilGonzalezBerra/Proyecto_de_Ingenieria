@@ -96,16 +96,18 @@
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="420">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="420">
 
-[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
+[Archivo del logo en STL](recursos/archivos/Ejercicio_5.SLDPRT)
 
 
 ## **- Corte Laser en MDF y ensamble**
 
 - Descripción: 
 
-<img src = "./recursos/imgs/CorteLaser1.png" alt="CorteLaser1" width="420">
+<img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="420">
+<img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="420">
+<img src = "./recursos/imgs/CorteLaser3.jpeg" alt="CorteLaser3" width="420">
 
-[Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
+[Plano Nave Star Wars](recursos/archivos/Ejercicio_5.SLDPRT)
 
 ---
 
