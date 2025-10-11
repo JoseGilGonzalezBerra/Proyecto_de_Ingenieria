@@ -118,6 +118,6 @@
 - Descripción: 
 
 <img src = "./recursos/imgs/Impresion3D1.jpeg" alt="Ejercicio5" width="300">
-
+<img src = "./recursos/imgs/Impresion3D2.jpeg" alt="Ejercicio5" width="300">
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
