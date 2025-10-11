@@ -107,12 +107,13 @@
 <img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="300">
 <img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="300">
 <img src = "./recursos/imgs/CorteLaser3.jpeg" alt="CorteLaser3" width="300">
+<img src = "./recursos/imgs/NaveStarwars1.jpeg" alt="CorteLaser3" width="300">
 
 
 https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
 
--[Plano Nave Star Wars en Solid](recursos/archivos/)
--[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea1.DXF)
+-[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
+-[Plano Nave Star Wars en DXF](recursos/archivos/)
 
 
 ---
