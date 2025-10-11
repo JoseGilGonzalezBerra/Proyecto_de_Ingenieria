@@ -22,7 +22,7 @@
 
 - Descripción: Hicimos una pieza en SolidWorks
 
-<img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" width="350">
+<img src = "./recursos/imgs/proyecto_sem1_1.png" alt="proyectosem1" width="300">
 
 [Ejercicio 1](recursos/archivos/Ejercicio_5.SLDPRT)
 
@@ -32,7 +32,7 @@
 
 - Descripción: Hicimos el Ejercicio 2 en SolidWorks
 
-<img src = "./recursos/imgs/Ejercicio2.png" alt="Ejercicio2" width="350">
+<img src = "./recursos/imgs/Ejercicio2.png" alt="Ejercicio2" width="300">
 
 [Ejercicio 2](recursos/archivos/Ejercicio2.SLDPRT)
 
@@ -62,7 +62,7 @@
 
 -Descripción: Creación de florero en SolidWorks
 
-<img src = "./recursos/imgs/Florero1.jpeg" alt="Florero" width="350">
+<img src = "./recursos/imgs/Florero1.jpeg" alt="Florero" width="300">
   
 [Ejercicio Florero](recursos/archivos/Florero1.SLDPRT)
 
@@ -73,7 +73,7 @@
 
 - Descripcion: Creación de Macetas en SolidWorks
 
-<img src = "./recursos/imgs/Florero.jpeg" alt="Florero" width="350">
+<img src = "./recursos/imgs/Florero.jpeg" alt="Florero" width="300">
   
 [Ejercicio Macetas](recursos/archivos/Florero.SLDPRT)
 
@@ -83,7 +83,7 @@
 
 - Descripción: Hicimos el Ejercicio 5 en SolidWorks
 
-<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="350">
+<img src = "./recursos/imgs/Ejercicio5.png" alt="Ejercicio5" width="300">
 
 [Ejercicio 5](recursos/archivos/Ejercicio_5.SLDPRT)
 
@@ -93,8 +93,8 @@
 
 - Descripción: 
 
-<img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="350">
-<img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="350">
+<img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
+<img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
 
 [Archivo del logo en STL](recursos/archivos/Ejercicio_5.SLDPRT)
 
@@ -103,9 +103,9 @@
 
 - Descripción: 
 
-<img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="350">
-<img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="350">
-<img src = "./recursos/imgs/CorteLaser3.jpeg" alt="CorteLaser3" width="350">
+<img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="300">
+<img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="300">
+<img src = "./recursos/imgs/CorteLaser3.jpeg" alt="CorteLaser3" width="300">
 
 [Plano Nave Star Wars](recursos/archivos/Ejercicio_5.SLDPRT)
 
