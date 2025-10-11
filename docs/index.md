@@ -113,7 +113,7 @@
 https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
 
 -[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
--[Plano Nave Star Wars en DXF](recursos/archivos/)
+-[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea.DXF)
 
 
 ---
