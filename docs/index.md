@@ -96,7 +96,7 @@
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
 
-[Archivo del logo en STL](recursos/archivos/Ejercicio_5.SLDPRT)
+[Archivo del logo en STL](recursos/archivos/logocel_JoseGil(1).DXF)
 
 
 ## **- Corte Laser en MDF y ensamble**
