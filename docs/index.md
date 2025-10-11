@@ -120,7 +120,7 @@ https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
 
 # **Semana 6**
 
-## **Impresion 3D**
+## **- Impresion 3D**
 
 - Descripción: 
 
@@ -132,3 +132,13 @@ https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
 -[Muñeco3D Archivo en Solid](recursos/archivos/Pieza3D.SLDPRT)
 -[Muñeco3D Archivo en STL](recursos/archivos/Pieza3D.STL)
 -[Muñeco3D Archivo en Gcode](recursos/archivos/CE3S1PRO_Pieza3D_MuñecoGil.gcode)
+
+
+---
+
+# **Semana 7**
+
+## **- Impresion 3D con Gemini**
+
+
+## **- Escaneo e impresion de cara**
