@@ -91,7 +91,7 @@
 
 ## **- Grabado Laser Logo en Soporte de Celular**
 
-- Descripción: 
+- Descripción: Con ayuda de la maquina de corte laser grabamos un logo hecho en SolidWorks, luego lo descargamos en un archivo en DXF para luego grabarlo en la base de madera que hicimos en clases pasadas.
 
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
@@ -102,7 +102,7 @@
 
 ## **- Corte Laser en MDF y ensamble**
 
-- Descripción: 
+- Descripción: Realizamos una pieza capaz de ensamblarse, en SolidWorks creamos el plano de las partes y piezas que necestiaba nuestro ensamble, luego procedimos a cortarlos con la maquina de corte laser en una placa de MDF.
 
 <img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="300">
 <img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="300">
@@ -120,7 +120,7 @@
 
 ## **- Impresion 3D**
 
-- Descripción: 
+- Descripción: Imprimimos una pieza en 3D haciendo un plano de Solidworks para luego descargarlo en STL y meterlo al software llamado CURA Maker usado para las impresoras en 3D.
 
 <img src = "./recursos/imgs/Impresion3D1.jpeg" alt="Impresion3D" width="300">
 <img src = "./recursos/imgs/Impresion3D2.jpeg" alt="Impresion3D" width="300">
@@ -138,5 +138,12 @@
 
 ## **- Impresion 3D con Gemini**
 
+- Descripcion: Con ayuda de la IA de Google llamada Gemini creamos un personaje de acuerdo a nuestros propios gustos, en mi caso fue un mono, una vez gemini genera el personaje descargamos la imagen, luego de eso con la pagina de "Tripo3D", insertamos la imagen en la pagina y esta nos generará un modelo 3D para poder imprimirlo.
+
+-[Mono3D Archivo en STL](recursos/archivos/Pieza3D.SLDPRT)
+
+
 
 ## **- Escaneo e impresion de cara**
+
+- Descripcion: Con ayuda de un escaner nos escaneamos la cara
