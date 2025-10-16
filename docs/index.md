@@ -109,7 +109,7 @@
 <img src = "./recursos/imgs/CorteLaser3.jpeg" alt="CorteLaser3" width="300">
 <img src = "./recursos/imgs/NaveStarwars1.jpeg" alt="CorteLaser3" width="300">
 
--[Video del uso de la maquina](recursos/archivos/videomaquina.MP4)
+-[Video del uso de la maquina](recursos/archivos/videomaquina.mp4)
 -[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
 -[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea.DXF)
 
