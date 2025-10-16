@@ -62,7 +62,7 @@
 
 -Descripción: Creación de florero en SolidWorks
 
-<img src = "./recursos/imgs/Florero1.jpeg" alt="Florero" width="300">
+<img src = "./recursos/archivos/videomaquina.mp4" alt="Florero" width="300">
   
 [Ejercicio Florero](recursos/archivos/Florero1.SLDPRT)
 
@@ -110,7 +110,7 @@
 <img src = "./recursos/imgs/NaveStarwars1.jpeg" alt="CorteLaser3" width="300">
 
 
-https://github.com/user-attachments/assets/1a7c80d9-ae87-436f-9e9a-b776e0c37fe5
+-[Video de uso de Corte Laser](recursos/archivos/videomaquina.mp4)
 
 -[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
 -[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea.DXF)
