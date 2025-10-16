@@ -110,8 +110,8 @@
 <img src = "./recursos/imgs/NaveStarwars1.jpeg" alt="CorteLaser3" width="300">
 
 <object data="recursos/archivos/videomaquina.MP4" type="application/pdf" width="100%" height="600">
--[Video de uso de Corte Laser](recursos/archivos/videomaquina.mp4)
 
+-[Plano Nave Star Wars en Solid](recursos/archivos/videomaquina.MP4)
 -[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
 -[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea.DXF)
 
