@@ -132,6 +132,9 @@
 -[Muñeco3D Archivo en Gcode](recursos/archivos/CE3S1PRO_Pieza3D_MuñecoGil.gcode)
 
 
+## **- Curso de 3D**
+
+
 ---
 
 # **Semana 7**
@@ -141,6 +144,11 @@
 - Descripcion: Con ayuda de la IA de Google llamada Gemini creamos un personaje de acuerdo a nuestros propios gustos, en mi caso fue un mono, una vez gemini genera el personaje descargamos la imagen, luego de eso con la pagina de "Tripo3D", insertamos la imagen en la pagina y esta nos generará un modelo 3D para poder imprimirlo.
 
 -[Mono3D Archivo en STL](recursos/archivos/Pieza3D.SLDPRT)
+
+
+## **- Escaneo con Fotos**
+
+
 
 
 
