@@ -134,6 +134,11 @@
 
 ## **- Curso de 3D**
 
+- Descripcion: Tomamos un cursos introdcutorio sobre las diferentes maquinas que usamos en clase, como la cortadora laser, la mauqina de impresion 3D y los diferentes tipos de escaneo que podemos hacer, a su vez nos esnseñaron sobre la hsitoria y el desarrollo de las maquinas a lo largo del tiempo hasta la actulidad y conceptos sobre la fabricación digital.
+
+<img src = "./recursos/imgs/Curso3d1.jpg" alt="Curso3D" width="300">
+<img src = "./recursos/imgs/Curso3d2.jpg" alt="Curso3D" width="300">
+
 
 ---
 
