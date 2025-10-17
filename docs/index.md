@@ -163,5 +163,8 @@
 - Descripcion: Con ayuda de un escaner nos escaneamos la cara
 
 
-## **- Reflexión: ¿?**
+## **- Reflexión: ¿Porque es importante? ¿Cuando usarias el escaner 3D en tu vida?**
+
+- Es la herramienta que nos permite crear, personalizar y reparar objetos. En esencia, nos da el poder de ser los arquitectos de nuestro propio entorno, acelerando la innovación y haciendo mas facil de resolver los problemas cotidianos.
+- Usaría el escáner 3D para reproducir cualquier pieza que quiera repplicar o quiera creer a partir de mi imaginación. Seria mi herramienta para diseñar y crear todo lo que neceite o desee.
 
