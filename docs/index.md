@@ -144,10 +144,9 @@
 - Descripcion: Con ayuda de la IA de Google llamada Gemini creamos un personaje de acuerdo a nuestros propios gustos, en mi caso fue un mono, una vez gemini genera el personaje descargamos la imagen, luego de eso con la pagina de "Tripo3D", insertamos la imagen en la pagina y esta nos generará un modelo 3D para poder imprimirlo.
 
 <img src = "./recursos/imgs/Mono3D.png" alt="Impresion3D" width="300">
+<img src = "./recursos/imgs/Monotraje1.jpg" alt="Impresion3D" width="300">
+<img src = "./recursos/imgs/Monotraje2.jpg" alt="Impresion3D" width="300">
 
-
--[Mono3D Archivo en STL](recursos/archivos/Pieza3D.SLDPRT)
--
 
 
 ## **- Escaneo con Fotos**
