@@ -58,7 +58,7 @@
 
 # **Semana 4**
 
-## **Ejercicio Florero (Semana 4)**
+## **- Ejercicio Florero **
 
 -Descripción: Creación de florero en SolidWorks
 
@@ -69,7 +69,7 @@
 
 ---
 
-## **Ejercicio Macetas (Semana 4)**
+## **- Ejercicio Macetas **
 
 - Descripcion: Creación de Macetas en SolidWorks
 
@@ -79,7 +79,7 @@
 
 ---
 
-## **Ejercicio 5 (Semana 4)**
+## **- Ejercicio 5 **
 
 - Descripción: Hicimos el Ejercicio 5 en SolidWorks
 
@@ -89,7 +89,7 @@
 
 # **Semana 5**
 
-## **- Grabado Laser Logo en Soporte de Celular**
+## **- Grabado Laser Logo en Soporte de Celular **
 
 - Descripción: Con ayuda de la maquina de corte laser grabamos un logo hecho en SolidWorks, luego lo descargamos en un archivo en DXF para luego grabarlo en la base de madera que hicimos en clases pasadas.
 
@@ -100,7 +100,7 @@
 [Archivo del logo en DXF](logocelJoseGil.DXF)
 
 
-## **- Corte Laser en MDF y ensamble**
+## **- Corte Laser en MDF y ensamble **
 
 - Descripción: Realizamos una pieza capaz de ensamblarse, en SolidWorks creamos el plano de las partes y piezas que necestiaba nuestro ensamble, luego procedimos a cortarlos con la maquina de corte laser en una placa de MDF.
 
@@ -118,7 +118,7 @@
 
 # **Semana 6**
 
-## **- Impresion 3D**
+## **- Impresion 3D **
 
 - Descripción: Imprimimos una pieza en 3D haciendo un plano de Solidworks para luego descargarlo en STL y meterlo al software llamado CURA Maker usado para las impresoras en 3D.
 
@@ -132,7 +132,7 @@
 -[Muñeco3D Archivo en Gcode](recursos/archivos/CE3S1PRO_Pieza3D_MuñecoGil.gcode)
 
 
-## **- Curso de 3D**
+## **- Curso de 3D **
 
 - Descripcion: Tomamos un cursos introdcutorio sobre las diferentes maquinas que usamos en clase, como la cortadora laser, la mauqina de impresion 3D y los diferentes tipos de escaneo que podemos hacer, a su vez nos esnseñaron sobre la hsitoria y el desarrollo de las maquinas a lo largo del tiempo hasta la actulidad y conceptos sobre la fabricación digital.
 
@@ -144,7 +144,7 @@
 
 # **Semana 7**
 
-## **- Impresion 3D con Gemini**
+## **- Impresion 3D con Gemini **
 
 - Descripcion: Con ayuda de la IA de Google llamada Gemini creamos un personaje de acuerdo a nuestros propios gustos, en mi caso fue un mono, una vez gemini genera el personaje descargamos la imagen, luego de eso con la pagina de "Tripo3D", insertamos la imagen en la pagina y esta nos generará un modelo 3D para poder imprimirlo.
 
@@ -154,7 +154,11 @@
 
 
 
-## **- Escaneo con Fotos**
+## **- Escaneo con Fotos **
+
+
+
+## **- Reflexión: ¿? **
 
 
 
