@@ -158,12 +158,10 @@
 
 
 
-## **- Reflexión: ¿?**
-
-
-
-
-
 ## **- Escaneo e impresion de cara**
 
 - Descripcion: Con ayuda de un escaner nos escaneamos la cara
+
+
+## **- Reflexión: ¿?**
+
