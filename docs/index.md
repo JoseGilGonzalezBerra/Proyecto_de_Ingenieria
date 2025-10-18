@@ -28,7 +28,7 @@
 
 ---
 
-## **- Ejercicio 2 (Semana 2)**
+## **- Ejercicio 2**
 
 - Descripción: Hicimos el Ejercicio 2 en SolidWorks
 
@@ -100,9 +100,10 @@
 [Archivo del logo en DXF](logocelJoseGil.DXF)
 
 
+
 ## **- Corte Laser en MDF y ensamble**
 
-- Descripción: Realizamos una pieza capaz de ensamblarse, en SolidWorks creamos el plano de las partes y piezas que necestiaba nuestro ensamble, luego procedimos a cortarlos con la maquina de corte laser en una placa de MDF.
+- Para esta actvididad 
 
 <img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="300">
 <img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="300">
@@ -156,6 +157,7 @@
 
 ## **- Escaneo con Fotos**
 
+- Descripcion:
 
 
 ## **- Escaneo e impresion de cara**
