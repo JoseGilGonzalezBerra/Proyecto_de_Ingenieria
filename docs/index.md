@@ -43,16 +43,25 @@
 
 ## **- Soporte de Madera**
 
-- Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera 
+- Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera
+
+- Durante esa clase el profe nos explico el correcto funcionamiento de cada una de las maquinas que usamos para esta actividad, incluyendo el como prenderlas, las medidas de seguridad adecuadas para cada una y nos permitio a cada uno usarla por nuestra cuenta para probar como funcionabda, tambien nos dio una lista de herramientas y reglas necesarias para trabajr con ellos, siendo estos:
+
+  * Bata de laboratorio o overol (Obligatorio)
+  * Botas de casquillo (Obligatorio)
+  * Regla: Quitarse cualquier tipo de joyeria (Obligatorio)
+  * Gafas protectoras
+  * Guantes
 
 <img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm2.jpeg" alt="soportemadera" width="300">
 
 [Video de Maquinas](recursos/archivos/Maquina1.mp4)
-
 [Maquina 2](recursos/archivos/Maquina2.mp4)
 
+!!! note "Nota"
+    Dsiculpe por no tener video de todas las maquinas, me robaron el cel y perdi muchos de los videos que tenía
 
 ---
 
@@ -91,7 +100,15 @@
 
 ## **- Grabado Laser Logo en Soporte de Celular**
 
-- Descripción: Con ayuda de la maquina de corte laser grabamos un logo hecho en SolidWorks, luego lo descargamos en un archivo en DXF para luego grabarlo en la base de madera que hicimos en clases pasadas.
+- Descripcion: Grabado de Logo en el soporte de Celular realizado la semana pasada
+
+- Con los conocimientos enseñados por nuestro profesor sobre la maquina de corte laser como la menra de prenderla y el uso del software que usaba la maquina, nostros teniamos que haaber dibujado un logo en un plano de solidworks y descargarlo en archivo DXF para luego usando la maquina de corte laser grabar el logo en el soporte de celular hecho en clases pasadas
+
+- Manera correcta de encender la maquina:
+  * 1.- Encender el sistema de refrigearcion y extraccion de humo en una palanca azul ubicada debajo de la maquina
+  * 2.- Localizar a un costado de la maquina un switch rojo, ponlo en encendido
+  * 3.- A un lado del switch busca otro switch de color azul y ponlo en encendido para encender la maquina de corte laser
+  * 4.- Por ultimo antes de ralizar un corte busca cerca de la pantalla un boton que diga "Laser 1", si el boton prende luz significa que ya está prendido el laser
 
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
@@ -99,11 +116,14 @@
 
 [Archivo del logo en DXF](logocelJoseGil.DXF)
 
+!!! note "Nota"
+    Nuevamente pido disculpas por no tener el video de la explicacion de el uso de la maquina, me habian robado el celular
+
 
 
 ## **- Corte Laser en MDF y ensamble**
 
-- Para esta actvididad 
+- Descripción:
 
 <img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="300">
 <img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="300">
