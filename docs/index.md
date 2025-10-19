@@ -45,13 +45,10 @@
 
 - Descripción: Utilizamos las maquinas por primera vez e hicimos un soporte de celular de madera
 
-- Durante esa clase el profe nos explico el correcto funcionamiento de cada una de las maquinas que usamos para esta actividad, incluyendo el como prenderlas, las medidas de seguridad adecuadas para cada una y nos permitio a cada uno usarla por nuestra cuenta para probar como funcionabda, tambien nos dio una lista de herramientas y reglas necesarias para trabajr con ellos, siendo estos:
+- Durante esa clase el profe nos explico el correcto funcionamiento de cada una de las maquinas que usamos para esta actividad, incluyendo el como prenderlas, las medidas de seguridad adecuadas para cada una y nos permitio a cada uno usarla por nuestra cuenta para probar como funcionabda, tambien nos dio una lista de herramientas y reglas necesarias para trabajr con ellos.
 
-* Bata de laboratorio o overol (Obligatorio)
-* Botas de casquillo (Obligatorio)
-* Regla: Quitarse cualquier tipo de joyeria (Obligatorio)
-* Gafas protectoras
-* Guantes
+??? info "Equip y reglas"
+    * Bata de laboratorio o overol (Obligatorio) * Botas de casquillo (Obligatorio) * Regla: Quitarse cualquier tipo de joyeria (Obligatorio) * Gafas protectoras * Guantes
 
 <img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
