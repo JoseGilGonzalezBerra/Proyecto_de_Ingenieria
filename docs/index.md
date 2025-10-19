@@ -47,11 +47,11 @@
 
 - Durante esa clase el profe nos explico el correcto funcionamiento de cada una de las maquinas que usamos para esta actividad, incluyendo el como prenderlas, las medidas de seguridad adecuadas para cada una y nos permitio a cada uno usarla por nuestra cuenta para probar como funcionabda, tambien nos dio una lista de herramientas y reglas necesarias para trabajr con ellos, siendo estos:
 
-  * Bata de laboratorio o overol (Obligatorio)
-  * Botas de casquillo (Obligatorio)
-  * Regla: Quitarse cualquier tipo de joyeria (Obligatorio)
-  * Gafas protectoras
-  * Guantes
+* Bata de laboratorio o overol (Obligatorio)
+* Botas de casquillo (Obligatorio)
+* Regla: Quitarse cualquier tipo de joyeria (Obligatorio)
+* Gafas protectoras
+* Guantes
 
 <img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
@@ -105,10 +105,10 @@
 - Con los conocimientos enseñados por nuestro profesor sobre la maquina de corte laser como la menra de prenderla y el uso del software que usaba la maquina, nostros teniamos que haaber dibujado un logo en un plano de solidworks y descargarlo en archivo DXF para luego usando la maquina de corte laser grabar el logo en el soporte de celular hecho en clases pasadas
 
 - Manera correcta de encender la maquina:
-  * 1.- Encender el sistema de refrigearcion y extraccion de humo en una palanca azul ubicada debajo de la maquina
-  * 2.- Localizar a un costado de la maquina un switch rojo, ponlo en encendido
-  * 3.- A un lado del switch busca otro switch de color azul y ponlo en encendido para encender la maquina de corte laser
-  * 4.- Por ultimo antes de ralizar un corte busca cerca de la pantalla un boton que diga "Laser 1", si el boton prende luz significa que ya está prendido el laser
+* 1.- Encender el sistema de refrigearcion y extraccion de humo en una palanca azul ubicada debajo de la maquina
+* 2.- Localizar a un costado de la maquina un switch rojo, ponlo en encendido
+* 3.- A un lado del switch busca otro switch de color azul y ponlo en encendido para encender la maquina de corte laser
+* 4.- Por ultimo antes de ralizar un corte busca cerca de la pantalla un boton que diga "Laser 1", si el boton prende luz significa que ya está prendido el laser
 
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
@@ -148,7 +148,8 @@
 - Para esta actividad la tarea consistia en imprimir una pieza en 3D usando los conocimientos aprendidos sobre las maquinas 3D, como prenderlas, la manera correcta de usarlas, de calibrarlas, de cambiar el filamento, entre otras cosas como descargar u guardar los archivos en la impresora para las impresiones y el software usado para las impresoras llamada "CURA MAKER".
   
 - Lo primero que debiamos hacer para esta actividad fue realizar la pieza en un plano de Solidwroks, en mi caso me inspire en querer hacer una especie de maceta con forma de minion o de un personaje para darle mas personalidad a la maceta, una vez terminada mi pieza la descargué en archivo STL.
-  ??? info "¿Porque STL?"
+  
+??? info "¿Porque STL?"
     Se descarga en archivo STL porque es el archicvo que hay que usar para poder en el software "Cura Maker" para poder configurar como queremos impirmir nuestra pieza.
 
 <img src = "./recursos/imgs/Impresion3D1.jpeg" alt="Impresion3D" width="300">
