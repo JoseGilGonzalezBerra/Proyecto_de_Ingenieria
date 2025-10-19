@@ -123,7 +123,9 @@
 
 ## **- Corte Laser en MDF y ensamble**
 
-- Descripción:
+- Descripción: Realizar una figura ensamblada por diferentes piezas
+
+- Para esta actividad nuestra tarea era realizar una figura a base ensambles de diferntes piezas cortadas en una tabla de MDF, para esto primero debiamos crear la piezas en 2D en Solidworks y ajustar las medidas para que ensamblara perfectamente, para esta ocasion yo decidi hacer una nave de la saga de peliculas "Star Wars". Una vez ya hechas la piezas en Solidworks procedi a descargarlo en archivo DXF para mandarlo a imprimir en la maquina de corte laser.
 
 <img src = "./recursos/imgs/CorteLaser1.jpeg" alt="CorteLaser1" width="300">
 <img src = "./recursos/imgs/CorteLaser2.jpeg" alt="CorteLaser2" width="300">
@@ -141,7 +143,13 @@
 
 ## **- Impresion 3D**
 
-- Descripción: Imprimimos una pieza en 3D haciendo un plano de Solidworks para luego descargarlo en STL y meterlo al software llamado CURA Maker usado para las impresoras en 3D.
+- Descripción: Imprimimos una pieza en 3D
+
+- Para esta actividad la tarea consistia en imprimir una pieza en 3D usando los conocimientos aprendidos sobre las maquinas 3D, como prenderlas, la manera correcta de usarlas, de calibrarlas, de cambiar el filamento, entre otras cosas como descargar u guardar los archivos en la impresora para las impresiones y el software usado para las impresoras llamada "CURA MAKER".
+  
+- Lo primero que debiamos hacer para esta actividad fue realizar la pieza en un plano de Solidwroks, en mi caso me inspire en querer hacer una especie de maceta con forma de minion o de un personaje para darle mas personalidad a la maceta, una vez terminada mi pieza la descargué en archivo STL.
+  ??? info "¿Porque STL?"
+    Se descarga en archivo STL porque es el archicvo que hay que usar para poder en el software "Cura Maker" para poder configurar como queremos impirmir nuestra pieza.
 
 <img src = "./recursos/imgs/Impresion3D1.jpeg" alt="Impresion3D" width="300">
 <img src = "./recursos/imgs/Impresion3D2.jpeg" alt="Impresion3D" width="300">
@@ -167,7 +175,9 @@
 
 ## **- Impresion 3D con Gemini**
 
-- Descripcion: Con ayuda de la IA de Google llamada Gemini creamos un personaje de acuerdo a nuestros propios gustos, en mi caso fue un mono, una vez gemini genera el personaje descargamos la imagen, luego de eso con la pagina de "Tripo3D", insertamos la imagen en la pagina y esta nos generará un modelo 3D para poder imprimirlo.
+-Descripción: Impresion de una pieza 3D usando Intelgiencia Artificial
+
+-Con ayuda de la IA de Google llamada Gemini creamos un personaje de acuerdo a nuestros propios gustos, en mi caso fue un mono, una vez gemini genera el personaje descargamos la imagen, luego de eso con la pagina de "Tripo3D", insertamos la imagen en la pagina y esta nos generará un modelo 3D para poder imprimirlo.
 
 <img src = "./recursos/imgs/Mono3D.png" alt="Impresion3D" width="300">
 <img src = "./recursos/imgs/Monotraje1.jpg" alt="Impresion3D" width="300">
@@ -177,16 +187,25 @@
 
 ## **- Escaneo con Fotos**
 
-- Descripcion:
+- Descripcion: Escanear la cara usando el escaneo con fotogrametría
+
+- Para esta tarea tuvimos que invetigar las diferentes aplicaiones existentes para escaneo 3D con fotos y con ayuda o individaulmente tomar varias fotos de diferentes perspectivas sobre nuestra cabeza y descargar el archivo del escaneo.
 
 
 ## **- Escaneo e impresion de cara**
 
-- Descripcion: Con ayuda de un escaner nos escaneamos la cara
+- Descripcion: Escaneo de cara
 
 
-## **- Reflexión: ¿Porque es importante? ¿Cuando usarias el escaner 3D en tu vida?**
+## **- Reflexión: ¿Porque es importante el 3D? ¿Cuando usarias el escaner 3D en tu vida?**
 
 - Es la herramienta que nos permite crear, personalizar y reparar objetos. En esencia, nos da el poder de ser los arquitectos de nuestro propio entorno, acelerando la innovación y haciendo mas facil de resolver los problemas cotidianos.
+  
 - Usaría el escáner 3D para reproducir cualquier pieza que quiera repplicar o quiera creer a partir de mi imaginación. Seria mi herramienta para diseñar y crear todo lo que neceite o desee.
+
+
+## **- Creacoin de pieza con lamina de acero**
+
+
+
 
