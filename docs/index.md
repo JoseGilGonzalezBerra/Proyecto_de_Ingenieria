@@ -47,8 +47,12 @@
 
 - Durante esa clase el profe nos explico el correcto funcionamiento de cada una de las maquinas que usamos para esta actividad, incluyendo el como prenderlas, las medidas de seguridad adecuadas para cada una y nos permitio a cada uno usarla por nuestra cuenta para probar como funcionabda, tambien nos dio una lista de herramientas y reglas necesarias para trabajr con ellos.
 
-??? info "Equip y reglas"
-    * Bata de laboratorio o overol (Obligatorio) * Botas de casquillo (Obligatorio) * Regla: Quitarse cualquier tipo de joyeria (Obligatorio) * Gafas protectoras * Guantes
+??? info "Equipo y reglas"
+    * Bata de laboratorio o overol (Obligatorio) 
+    * Botas de casquillo (Obligatorio) 
+    * Regla: Quitarse cualquier tipo de joyeria (Obligatorio) 
+    * Gafas protectoras 
+    * Guantes
 
 <img src = "./recursos/imgs/soportemadera.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
@@ -102,10 +106,10 @@
 - Con los conocimientos enseñados por nuestro profesor sobre la maquina de corte laser como la menra de prenderla y el uso del software que usaba la maquina, nostros teniamos que haaber dibujado un logo en un plano de solidworks y descargarlo en archivo DXF para luego usando la maquina de corte laser grabar el logo en el soporte de celular hecho en clases pasadas
 
 - Manera correcta de encender la maquina:
-* 1.- Encender el sistema de refrigearcion y extraccion de humo en una palanca azul ubicada debajo de la maquina
-* 2.- Localizar a un costado de la maquina un switch rojo, ponlo en encendido
-* 3.- A un lado del switch busca otro switch de color azul y ponlo en encendido para encender la maquina de corte laser
-* 4.- Por ultimo antes de ralizar un corte busca cerca de la pantalla un boton que diga "Laser 1", si el boton prende luz significa que ya está prendido el laser
+  - 1.- Encender el sistema de refrigearcion y extraccion de humo en una palanca azul ubicada debajo de la maquina
+  - 2.- Localizar a un costado de la maquina un switch rojo, ponlo en encendido
+  - 3.- A un lado del switch busca otro switch de color azul y ponlo en encendido para encender la maquina de corte laser
+  - 4.- Por ultimo antes de ralizar un corte busca cerca de la pantalla un boton que diga "Laser 1", si el boton prende luz significa que ya está prendido el laser
 
 <img src = "./recursos/imgs/LogoSoporte1.jpeg" alt="LogoSoporte1" width="300">
 <img src = "./recursos/imgs/LogoSoporte2.jpeg" alt="LogoSoporte2" width="300">
