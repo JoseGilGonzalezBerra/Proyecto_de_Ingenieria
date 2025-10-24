@@ -60,7 +60,7 @@
 
 
 <video controls width="300">
- <source src="../recursos/archivos/Maquina1.mp4" type="video/mp4">
+ <source src="./recursos/archivos/Maquina1.mp4" type="video/mp4">
 </video>
 
 [Maquina 2](recursos/archivos/Maquina2.mp4)
@@ -138,7 +138,7 @@
 <img src = "./recursos/imgs/NaveStarwars1.jpeg" alt="CorteLaser3" width="300">
 
 <video controls width="300">
- <source src="../recursos/archivos/videomaquina.mp4" type="video/mp4">
+ <source src="./recursos/archivos/videomaquina.mp4" type="video/mp4">
 </video>
 
 -[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
@@ -223,7 +223,7 @@
 
 <img src="./recursos/imgs/lamina2.jpeg" alt="Diagrama del sistema" width="300">
 
-<video controls width="400">
+<video controls width="300">
  <source src="./recursos/archivos/laminavideo.mp4" type="video/mp4">
 </video>
 
@@ -233,8 +233,8 @@
 <img src="./recursos/imgs/laminacorte2.jpeg" alt="Diagrama del sistema" width="300">
 <img src="./recursos/imgs/laminacorte3.jpeg" alt="Diagrama del sistema" width="300">
 
-<video controls width="400">
- <source src="./recursos/archivos/maquinacortelamina1.mp4" type="video/mp4">
+<video controls width="300">
+ <source src="./recursos/archivos/videomaquinalamina1.mp4" type="video/mp4">
 </video>
 
 
