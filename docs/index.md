@@ -200,7 +200,9 @@
 
 - Para esta tarea tuvimos que invetigar las diferentes aplicaiones existentes para escaneo 3D con fotos y con ayuda o individualmente tomar varias fotos de diferentes perspectivas sobre algun objeto y descargar el archivo del escaneo.
 
+<img src = "./recursos/imgs/escaneo1.jpeg" alt="Impresion3D" width="300">
 
+-[Escaneo en Archivo STL](recursos/archivos/Pieza3D.SLDPRT)
 
 
 ## **- Escaneo e impresion de cara**
