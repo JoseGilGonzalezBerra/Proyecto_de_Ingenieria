@@ -238,7 +238,8 @@
 </video>
 
 
+- Una vez cortado todo, con otra maquina empezamos a hacer los dobleses necesarios para seguir avanzando con nuestra pieza, y a continuacion con una nueva maquina soldamos una pequeña tira de lamina en nuestra pieza.
 
-- Una vez cortado todo, con otra maquina empezamos a hacer los dobleses necesarios para seguir avanzando con nuestra pieza, y a continuacion con una nueva maquina soldamos una pequeña tira de lamina en nuestra pieza
 
+<img src="./recursos/imgs/laminapieza1.jpeg" alt="Diagrama del sistema" width="300">
 
