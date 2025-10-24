@@ -219,9 +219,9 @@
 
 - Para esta practica aprendimos a usar una maquina que se utiliza para cortar la lamina y hacerla mas pequeña, esta funcionaba de tal manera que teniamos que insertar la lamina en esta y con fuerza empujar hacia abajo la base que se encontraba enfrente de la maquina, una vez que la base llegara hasta abajo la lamina habra sido cortada.
 
-<img src="../recursos/imgs/practica1led.jpg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/lamina1.jpeg" alt="Diagrama del sistema" width="300">
 
-<img src="../recursos/imgs/practica1led.jpg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/lamina2.jpeg" alt="Diagrama del sistema" width="300">
 
 <video controls width="400">
  <source src="../recursos/archivos/practica1video.mp4" type="video/mp4">
