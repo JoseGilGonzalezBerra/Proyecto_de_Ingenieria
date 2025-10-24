@@ -196,14 +196,16 @@
 
 ## **- Escaneo con Fotos**
 
-- Descripcion: Escanear la cara usando el escaneo con fotogrametría
+- Descripcion: Escanear un objeto usando el escaneo con fotogrametría
 
-- Para esta tarea tuvimos que invetigar las diferentes aplicaiones existentes para escaneo 3D con fotos y con ayuda o individaulmente tomar varias fotos de diferentes perspectivas sobre nuestra cabeza y descargar el archivo del escaneo.
+- Para esta tarea tuvimos que invetigar las diferentes aplicaiones existentes para escaneo 3D con fotos y con ayuda o individualmente tomar varias fotos de diferentes perspectivas sobre algun objeto y descargar el archivo del escaneo.
+
+
 
 
 ## **- Escaneo e impresion de cara**
 
-- Descripcion: Escaneo de cara
+- Descripcion: Escaneo de cara usando un escaner infrarrojo
 
 
 ## **- Reflexión: ¿Porque es importante el 3D? ¿Cuando usarias el escaner 3D en tu vida?**
@@ -211,6 +213,9 @@
 - Es la herramienta que nos permite crear, personalizar y reparar objetos. En esencia, nos da el poder de ser los arquitectos de nuestro propio entorno, acelerando la innovación y haciendo mas facil de resolver los problemas cotidianos.
   
 - Usaría el escáner 3D para reproducir cualquier pieza que quiera repplicar o quiera creer a partir de mi imaginación. Seria mi herramienta para diseñar y crear todo lo que neceite o desee.
+
+---
+# **Semana 8**
 
 
 ## **- Creacion de pieza con lamina de acero**
@@ -242,4 +247,12 @@
 
 
 <img src="./recursos/imgs/laminapieza1.jpeg" alt="Diagrama del sistema" width="300">
+
+# **Semana 9**
+
+## "Caja con termino de carreo"
+
+- Descripcion: Hicimos una caja desde 0 con ayuda de las maquinas del IDIT y de alumno que presta atencion
+
+
 
