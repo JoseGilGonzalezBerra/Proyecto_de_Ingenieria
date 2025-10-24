@@ -202,7 +202,7 @@
 
 <img src = "./recursos/imgs/escaneo1.jpeg" alt="Impresion3D" width="300">
 
--[Escaneo en Archivo STL](recursos/archivos/Pieza3D.SLDPRT)
+-[Escaneo en Archivo STL](recursos/archivos/escaneoobjeto.stl)
 
 
 ## **- Escaneo e impresion de cara**
