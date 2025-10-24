@@ -58,7 +58,11 @@
 <img src = "./recursos/imgs/spm1.jpeg" alt="soportemadera" width="300">
 <img src = "./recursos/imgs/spm2.jpeg" alt="soportemadera" width="300">
 
-[Video de Maquinas](recursos/archivos/Maquina1.mp4)
+
+<video controls width="300">
+ <source src="../recursos/archivos/Maquina1.mp4" type="video/mp4">
+</video>
+
 [Maquina 2](recursos/archivos/Maquina2.mp4)
 
 !!! note "Nota"
@@ -133,7 +137,10 @@
 <img src = "./recursos/imgs/CorteLaser3.jpeg" alt="CorteLaser3" width="300">
 <img src = "./recursos/imgs/NaveStarwars1.jpeg" alt="CorteLaser3" width="300">
 
--[Video del uso de la maquina](recursos/archivos/videomaquina.mp4)
+<video controls width="300">
+ <source src="../recursos/archivos/videomaquina.mp4" type="video/mp4">
+</video>
+
 -[Plano Nave Star Wars en Solid](recursos/archivos/Impresion2d_tarea.SLDPRT)
 -[Plano Nave Star Wars en DXF](recursos/archivos/Impresion2d_tarea.DXF)
 
@@ -206,8 +213,24 @@
 - Usaría el escáner 3D para reproducir cualquier pieza que quiera repplicar o quiera creer a partir de mi imaginación. Seria mi herramienta para diseñar y crear todo lo que neceite o desee.
 
 
-## **- Creacoin de pieza con lamina de acero**
+## **- Creacion de pieza con lamina de acero**
+
+- Descripcion: Creamos una pieza a base de una lamina de metal usando las diferentes maqi¿uinas del IDIT
+
+- Para esta practica aprendimos a usar una maquina que se utiliza para cortar la lamina y hacerla mas pequeña, esta funcionaba de tal manera que teniamos que insertar la lamina en esta y con fuerza empujar hacia abajo la base que se encontraba enfrente de la maquina, una vez que la base llegara hasta abajo la lamina habra sido cortada.
+
+<img src="../recursos/imgs/practica1led.jpg" alt="Diagrama del sistema" width="300">
+
+<img src="../recursos/imgs/practica1led.jpg" alt="Diagrama del sistema" width="300">
+
+<video controls width="400">
+ <source src="../recursos/archivos/practica1video.mp4" type="video/mp4">
+</video>
+
+- Una vez cortada la lamina, con ayuda de un plano entregado por el profesor, trazamos en las diferentes tiras de lamina las medidas necesarias para llevar a cabo nuestra pieza, y una vez terminada de marcar, con unas tijeras y con una maquina diferente cortamos las piezas sobrantes de la lamina para nuestra pieza.
 
 
+
+- Una vez cortado todo, con otra maquina empezamos a hacer los dobleses necesarios para seguir avanzando con nuestra pieza, y a continuacion con una nueva maquina soldamos una pequeña tira de lamina en nuestra pieza
 
 
