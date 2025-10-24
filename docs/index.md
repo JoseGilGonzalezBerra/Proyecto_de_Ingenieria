@@ -224,7 +224,7 @@
 <img src="../recursos/imgs/lamina2.jpeg" alt="Diagrama del sistema" width="300">
 
 <video controls width="400">
- <source src="../recursos/archivos/practica1video.mp4" type="video/mp4">
+ <source src="../recursos/archivos/laminavideo.mp4" type="video/mp4">
 </video>
 
 - Una vez cortada la lamina, con ayuda de un plano entregado por el profesor, trazamos en las diferentes tiras de lamina las medidas necesarias para llevar a cabo nuestra pieza, y una vez terminada de marcar, con unas tijeras y con una maquina diferente cortamos las piezas sobrantes de la lamina para nuestra pieza.
