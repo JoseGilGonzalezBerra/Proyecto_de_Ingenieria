@@ -213,9 +213,10 @@
 
 - Para usar el escaner era necesario instalar el software necesario para este llamado "CrealityScan 4" en el que podiamos apreciar como iba el proceso de ecaneo, una vez terminado el escaneo, el software realiza un tipo de procesamiento de malla para tratar de acompletar las partes que no puderion ser escaneadas , una vez terminado ese proceso ya podemos descargarlo en archivo STL en caso de que queramos realizar una impresion 3D.
 
+<img src = "./recursos/imgs/escaneocara1.jpeg" alt="Escaneo_con_fotos" width="300">
+<img src = "./recursos/imgs/escaneocara2.jpeg" alt="Escaneo_con_fotos" width="300">
 
-
-
+[Escaneo de cara en Archivo STL](recursos/archivos/escaneoobjeto.stl)
 
 ## **- Reflexión: ¿Porque es importante el 3D? ¿Cuando usarias el escaner 3D en tu vida?**
 
