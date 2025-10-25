@@ -260,9 +260,19 @@
 
 # **Semana 9**
 
-## "Caja con termino de carreo"
+## "Caja con bisagras"
 
-- Descripcion: Hicimos una caja desde 0 con ayuda de las maquinas del IDIT y de alumno que presta atencion
+- Descripcion: Hicimos una caja desde 0 con ayuda de las maquinas del IDIT
+
+1. Lo primero que hicimos fue hacer las paredes de la caja cortando una lamina de 15x60cm y marcamos lineas cada 15 en el largo para dividr las cuatro paredes de la caja.
+
+2. Luego doblamos la lamina en 90 grados en cada linea marcada cada 15cm y luego soldamos la ultima y la primera cara o pared para formar la caja con sus paredes.
+
+<img src="./recursos/imgs/laminapieza1.jpeg" alt="Diagrama del sistema" width="300">
+
+3. Una vez creada la pared creamos la base marcando un cuadrado de 15x15cm y en cada lado le hicimos unas pestañas para soldarlo a las paredes de la caja.
+
+4. Una vez soldada la base con las paredes solo nos quedaba hacer la tapa, para esta use una bisagra soldada a una de las paredes de la caja para poder abirlo y cerrarlo, para hacer la tapa medí un cuadrado de 15x15cm y a un lado de ese le hice una pestaña que funcionara como una agarradera para abrir mas facil la caja.
 
 
 
