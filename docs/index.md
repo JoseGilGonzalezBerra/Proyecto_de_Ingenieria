@@ -200,14 +200,21 @@
 
 - Para esta tarea tuvimos que invetigar las diferentes aplicaiones existentes para escaneo 3D con fotos y con ayuda o individualmente tomar varias fotos de diferentes perspectivas sobre algun objeto y descargar el archivo del escaneo.
 
-<img src = "./recursos/imgs/escaneo1.jpeg" alt="Impresion3D" width="300">
+<img src = "./recursos/imgs/escaneo1.jpeg" alt="Escaneo_con_fotos" width="300">
 
 -[Escaneo en Archivo STL](recursos/archivos/escaneoobjeto.stl)
 
 
-## **- Escaneo e impresion de cara**
+## **- Escaneo de cara**
 
 - Descripcion: Escaneo de cara usando un escaner infrarrojo
+
+- Usando todo lo aprendido sobre el esccaneo 3D y sobre los diferentes escaneres y como funcionan, en esta practica escaneamos nuestra cara usando una escaner infrarrojo, para esto necesitabamos apoyarnos entre compañaeros para aumentar la probabilidad de exito al escanear.
+
+- Para usar el escaner era necesario instalar el software necesario para este llamado "CrealityScan 4" en el que podiamos apreciar como iba el proceso de ecaneo, una vez terminado el escaneo, el software realiza un tipo de procesamiento de malla para tratar de acompletar las partes que no puderion ser escaneadas , una vez terminado ese proceso ya podemos descargarlo en archivo STL en caso de que queramos realizar una impresion 3D.
+
+
+
 
 
 ## **- Reflexión: ¿Porque es importante el 3D? ¿Cuando usarias el escaner 3D en tu vida?**
