@@ -283,3 +283,38 @@
  <source src="./recursos/archivos/cajavideo.mp4" type="video/mp4">
 </video>
 
+
+# **Semana 10**
+
+## "Creacion de Matriz para molde"
+
+- Descripción: En Solidworks creamos una matriz de alguna pieza de nuesyra elección para poder crear un molde de aquella pieza. El procesos consistía en crear unas matrices de cada mitad de una pieza (importante que tuviera una entrada de aire) , para luego con el router CNC crear las matrices en espuma rosa para luego juntar las dos mitades y a travez de un orificio (no la entrada del aire) que debimos crear en Solidworks previamente, luego encima de la matriz hechamos una mezcla y esperamos a que endureza, una vez listo ya tendriamos los moldes de nuestra pieza.
+
+
+
+
+
+
+# **Semana 11**
+
+## "Tabla de madera para la casa-Router CNC"
+
+- Descripción: Con un nuevo programa llamada Vcarve en la que diseñamos los vectores para crear una tabla de madera con un RouterCNC, el proceso consistio en hacer el diseño de la tabla en Solid para luego descargarlo en DXF y luego lo pasamos a Vcarve donde configuramos todos lo cortes que queriamos para la tabla, luego de eso creamos los codigos que debiamos introducir a la CNC para que cortara la tabla correctamente.
+ 
+
+
+
+
+
+# **Semana 12**
+
+## "Ejercicio Solidwork"
+
+- Descripcion: Entrega de los 40 Ejercicio de Solidwork enviados por el profesor.
+
+
+
+
+
+
+
