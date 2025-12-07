@@ -23,7 +23,6 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 <img src="../recursos/imgs/ProyectoF4.jpeg" alt="Diagrama del sistema" width="300">
 <img src="../recursos/imgs/ProyectoF5.jpeg" alt="Diagrama del sistema" width="300">
 
-ProyectoF5.jpeg
 
 
 
