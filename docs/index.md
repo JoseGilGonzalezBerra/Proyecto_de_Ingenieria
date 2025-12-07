@@ -319,10 +319,27 @@
 ## "Ejercicio Solidwork"
 
 - Descripcion: Entrega de los 40 Ejercicio de Solidwork enviados por el profesor.
+  
+1.- Ejercicio1
 
+[Ejercicio 1](recursos/archivos/Ejercicio1.SLDPRT)
 
+[Ejercicio 2](recursos/archivos/Ejercicio2(2).SLDPRT)
 
+[Ejercicio 3](recursos/archivos/Ejercicio3.SLDPRT)
 
+[Ejercicio 4](recursos/archivos/Ejercicio4.SLDPRT)
 
+[Ejercicio 5](recursos/archivos/Ejercicio5.SLDPRT)
+
+[Ejercicio 6](recursos/archivos/Ejercicio6.SLDPRT)
+
+[Ejercicio 7](recursos/archivos/Ejercicio7.SLDPRT)
+
+[Ejercicio 8](recursos/archivos/Ejercicio8.SLDPRT)
+
+[Ejercicio 9](recursos/archivos/Ejercicio9.SLDPRT)
+
+[Ejercicio 10](recursos/archivos/Ejercicio10.SLDPRT)
 
 
