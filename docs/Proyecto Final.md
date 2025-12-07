@@ -17,11 +17,11 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 
 ## Tomas Finales del Proyecto
 
-<img src="./recursos/imgs/ProyectoF1.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF2.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF3.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF4.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF5.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF1.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF2.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF3.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF4.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF5.jpeg" alt="Diagrama del sistema" width="300">
 
 
 
