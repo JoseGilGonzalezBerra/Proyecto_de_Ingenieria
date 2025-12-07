@@ -283,6 +283,7 @@
  <source src="./recursos/archivos/cajavideo.mp4" type="video/mp4">
 </video>
 
+---
 
 # **Semana 10**
 
@@ -296,6 +297,7 @@
 [Parte 1 de la Matriz](recursos/archivos/Matriz1.SLDPRT)
 [Parte 2 de la Matriz](recursos/archivos/Matriz2.SLDASM)
 
+---
 
 # **Semana 11**
 
@@ -312,7 +314,7 @@
 
 <img src="./recursos/imgs/ImagenTabla.png" alt="Diagrama del sistema" width="300">
 
-
+---
 
 # **Semana 12**
 
