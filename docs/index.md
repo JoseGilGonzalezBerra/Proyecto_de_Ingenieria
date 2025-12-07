@@ -293,7 +293,10 @@
 <img src="./recursos/imgs/Matriz1.png" alt="Diagrama del sistema" width="300">
 <img src="./recursos/imgs/Matriz2.png" alt="Diagrama del sistema" width="300">
 
-[Escaneo de cara en Archivo STL](recursos/archivos/escaneoobjeto.stl)
+[Parte 1 de la Matriz](recursos/archivos/Matriz1.SLDPRT)
+
+
+Matriz1.SLDPRT
 
 
 # **Semana 11**
