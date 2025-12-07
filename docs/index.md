@@ -463,6 +463,28 @@
 
 [Ejercicio 35](recursos/archivos/Ejercicio35.SLDPRT) 
 
+**36.- Ejercicio 36**
+
+[Ejercicio 36](recursos/archivos/Ejercicio36.SLDPRT) 
+
+**37.- Ejercicio 37**
+
+[Ejercicio 37](recursos/archivos/Ejercicio37.SLDPRT) 
+
+**38.- Ejercicio 38**
+
+[Ejercicio 38](recursos/archivos/Ejercicio38.SLDPRT) 
+
+**39.- Ejercicio 39**
+
+[Ejercicio 39_Pieza 1](recursos/archivos/Ejercicio39.1.SLDPRT)
+[Ejercicio 39_Pieza32](recursos/archivos/Ejercicio39.2.SLDPRT) 
+[Ejercicio 39_Pieza 3](recursos/archivos/Ejercicio39.3.SLDPRT) 
+
+**40.- Ejercicio 40**
+
+[Ejercicio 40](recursos/archivos/Ejercicio40.SLDPRT) 
+
 
 
 
