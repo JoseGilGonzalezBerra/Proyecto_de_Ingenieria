@@ -440,7 +440,32 @@
 
 **30.- Ejercicio 30**
 
-[Ejercicio 30](recursos/archivos/Ejercicio30.SLDPRT)
+[Ejercicio 30](recursos/archivos/Ejercicio30.SLDPRT) 
+
+**31.- Ejercicio 31**
+
+[Ejercicio 31](recursos/archivos/Ejercicio31.SLDPRT) 
+
+**32.- Ejercicio 32**
+
+[Ejercicio 32](recursos/archivos/Ejercicio32.SLDPRT) 
+
+**33.- Ejercicio 33**
+
+[Ejercicio 33](recursos/archivos/Ejercicio33.SLDPRT) 
+
+**34.- Ejercicio 34**
+
+[Ejercicio 34_PrimerPieza](recursos/archivos/Ejercicio34.1.SLDPRT)
+[Ejercicio 34_SegundaPieza](recursos/archivos/Ejercicio34.1.SLDPRT) 
+
+**35.- Ejercicio 35**
+
+[Ejercicio 35](recursos/archivos/Ejercicio35.SLDPRT) 
+
+
+
+
 
 
 
