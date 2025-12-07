@@ -396,10 +396,63 @@
 
 **19.- Ejercicio 19**
 
-[Ejercicio 19](recursos/archivos/Ejercicio19.SLDPRT)
+[Ejercicio 19](recursos/archivos/Ejercicio19.SLDPRT) 
 
 **20.- Ejercicio 20**
 
-[Ejercicio 20](recursos/archivos/Ejercicio20.SLDPRT)
+[Ejercicio 20](recursos/archivos/Ejercicio20.SLDPRT) 
+
+**21.- Ejercicio 21**
+
+[Ejercicio 21](recursos/archivos/Ejercicio21.SLDPRT) 
+
+**22.- Ejercicio 22**
+
+[Ejercicio 22](recursos/archivos/Ejercicio22.SLDPRT) 
+
+**23.- Ejercicio 23**
+
+[Ejercicio 23](recursos/archivos/Ejercicio23.SLDPRT) 
+
+**24.- Ejercicio 24**
+
+[Ejercicio 24](recursos/archivos/Ejercicio24.SLDPRT) 
+
+**25.- Ejercicio 25**
+
+[Ejercicio 25](recursos/archivos/Ejercicio25.SLDPRT) 
+
+**26.- Ejercicio 26**
+
+[Ejercicio 26](recursos/archivos/Ejercicio26.SLDPRT) 
+
+**27.- Ejercicio 27**
+
+[Ejercicio 27](recursos/archivos/Ejercicio27.SLDPRT) 
+
+**28.- Ejercicio 28**
+
+[Ejercicio 28](recursos/archivos/Ejercicio28.SLDPRT) 
+
+**29.- Ejercicio 29**
+
+[Ejercicio 29](recursos/archivos/Ejercicio29.SLDPRT) 
+
+**30.- Ejercicio 30**
+
+[Ejercicio 30](recursos/archivos/Ejercicio30.SLDPRT)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
