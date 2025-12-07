@@ -6,8 +6,13 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 
 2.- En equipos de 2 debiamos crear algun artefacto medieval que fuera capaz de lanzar proyectiles (cualquiera) a alemnos una distacnia de 4 metros y de igual manera que combinara al menos dos tecnicas de las que vimos en todo el semestre
 
-## Especificaviones del proyecto
+## Especificaciones del proyecto
 
+<object data="recursos/archivos/syllabus1.pdf" type="application/pdf" width="100%" height="600">
+  <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/syllabus1pdf">Descargar</a></p>
+</object>
+
+[Syllabus de la materia](recursos/archivos/Syllabus.pdf)
 
 
 
