@@ -8,7 +8,7 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 
 ## Especificaciones del proyecto
 
-<object data="recursos/archivos/CaracteristicasProyecto.pdf" type="application/pdf" width="100%" height="600">
+<object data="/recursos/archivos/CaracteristicasProyecto.pdf" type="application/pdf" width="100%" height="600">
   <p>No se pudo mostrar el PDF. <a href="/recursos/archivos/CaracteristicasProyecto.pdf">Descargar</a></p>
 </object>
 
