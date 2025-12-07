@@ -8,8 +8,8 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 
 ## Especificaciones del proyecto
 
-<object data="./recursos/archivos/CaracteristicasProyecto.pdf" type="application/pdf" width="100%" height="600">
-  <p>No se pudo mostrar el PDF. <a href="./recursos/archivos/CaracteristicasProyecto.pdf">Descargar</a></p>
+<object data="../recursos/archivos/CaracteristicasProyecto.pdf" type="application/pdf" width="100%" height="600">
+  <p>No se pudo mostrar el PDF. <a href="../recursos/archivos/CaracteristicasProyecto.pdf">Descargar</a></p>
 </object>
 
 [Caracteristicas del Proyecto](recursos/archivos/CaracteristicasProyecto.pdf)
@@ -17,11 +17,11 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 
 ## Tomas Finales del Proyecto
 
-<img src="./recursos/imgs/ProyectoF1.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF2.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF3.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF4.jpeg" alt="Diagrama del sistema" width="300">
-<img src="./recursos/imgs/ProyectoF5.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF1.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF2.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF3.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF4.jpeg" alt="Diagrama del sistema" width="300">
+<img src="../recursos/imgs/ProyectoF5.jpeg" alt="Diagrama del sistema" width="300">
 
 
 
