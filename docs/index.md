@@ -322,26 +322,84 @@
 
 - Descripcion: Entrega de los 40 Ejercicio de Solidwork enviados por el profesor.
   
-1.- Ejercicio1
+**1.- Ejercicio 1**
 
 [Ejercicio 1](recursos/archivos/Ejercicio1.SLDPRT)
 
+**2.- Ejercicio 2**
+
 [Ejercicio 2](recursos/archivos/Ejercicio2(2).SLDPRT)
+
+**2.- Ejercicio 3**
 
 [Ejercicio 3](recursos/archivos/Ejercicio3.SLDPRT)
 
+**2.- Ejercicio 4**
+
 [Ejercicio 4](recursos/archivos/Ejercicio4.SLDPRT)
+
+**2.- Ejercicio 5**
 
 [Ejercicio 5](recursos/archivos/Ejercicio5.SLDPRT)
 
+**2.- Ejercicio 6**
+
 [Ejercicio 6](recursos/archivos/Ejercicio6.SLDPRT)
+
+**2.- Ejercicio 7**
 
 [Ejercicio 7](recursos/archivos/Ejercicio7.SLDPRT)
 
+**2.- Ejercicio 8**
+
 [Ejercicio 8](recursos/archivos/Ejercicio8.SLDPRT)
+
+**9.- Ejercicio 9**
 
 [Ejercicio 9](recursos/archivos/Ejercicio9.SLDPRT)
 
+**10.- Ejercicio 10**
+
 [Ejercicio 10](recursos/archivos/Ejercicio10.SLDPRT)
+
+**11.- Ejercicio 11**
+
+[Ejercicio 11](recursos/archivos/Ejercicio11.SLDPRT)
+
+**12.- Ejercicio 12**
+
+[Ejercicio 12](recursos/archivos/Ejercicio12.SLDPRT)
+
+**13.- Ejercicio 13**
+
+[Ejercicio 13](recursos/archivos/Ejercicio13.SLDPRT)
+
+**14.- Ejercicio 14**
+
+[Ejercicio 14](recursos/archivos/Ejercicio14.SLDPRT)
+
+**15.- Ejercicio 15**
+
+[Ejercicio 15](recursos/archivos/Ejercicio15.SLDPRT)
+
+**16.- Ejercicio 16**
+
+[Ejercicio 16](recursos/archivos/Ejercicio16.SLDPRT)
+
+**17.- Ejercicio 17**
+
+[Ejercicio 17](recursos/archivos/Ejercicio17.SLDPRT)
+
+**18.- Ejercicio 18**
+
+[Ejercicio 18](recursos/archivos/Ejercicio18.SLDPRT)
+
+**19.- Ejercicio 19**
+
+[Ejercicio 19](recursos/archivos/Ejercicio19.SLDPRT)
+
+**20.- Ejercicio 20**
+
+[Ejercicio 20](recursos/archivos/Ejercicio20.SLDPRT)
 
 
