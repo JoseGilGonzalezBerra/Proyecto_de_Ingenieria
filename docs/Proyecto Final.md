@@ -30,5 +30,12 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 <img src="../recursos/imgs/ProyectoF5.jpeg" alt="Diagrama del sistema" width="300">
 
 
+---
+
+## Archivos del Proyecto
+
+[Video de Encendio del Led](recursos/archivos/practica1video.mp4)
+[Video de Encendio del Led](recursos/archivos/practica1video.mp4)
+
 
 
