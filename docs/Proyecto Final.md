@@ -38,7 +38,7 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 - [Base de la Catapulta](../recursos/archivos/BASE.SLDPRT)
 - [Accionador de la Catapulta](../recursos/archivos/PLUNGER.SLDPRT)
 - [Brazo de la Catapulta](../recursos/archivos/ARM.SLDPRT)
-
+- [Muñeco](../recursos/archivos/Muñeco_Gil.SLDPRT)
 
 
 
