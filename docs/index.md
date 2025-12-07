@@ -301,6 +301,13 @@
 
 - Descripción: Con un nuevo programa llamada Vcarve en la que diseñamos los vectores para crear una tabla de madera con un RouterCNC, el proceso consistio en hacer el diseño de la tabla en Solid para luego descargarlo en DXF y luego lo pasamos a Vcarve donde configuramos todos lo cortes que queriamos para la tabla, luego de eso creamos los codigos que debiamos introducir a la CNC para que cortara la tabla correctamente.
  
+<img src="./recursos/imgs/CNC1.jpeg" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/CNC2.jpeg" alt="Diagrama del sistema" width="300">
+
+
+
+<img src="./recursos/imgs/ImagenTabla.png" alt="Diagrama del sistema" width="300">
+
 
 
 
