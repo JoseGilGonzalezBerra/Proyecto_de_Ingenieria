@@ -294,9 +294,7 @@
 <img src="./recursos/imgs/Matriz2.png" alt="Diagrama del sistema" width="300">
 
 [Parte 1 de la Matriz](recursos/archivos/Matriz1.SLDPRT)
-
-
-Matriz1.SLDPRT
+[Parte 2 de la Matriz](recursos/archivos/Matriz2.SLDASM)
 
 
 # **Semana 11**
