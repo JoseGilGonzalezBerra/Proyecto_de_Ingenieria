@@ -290,7 +290,8 @@
 
 - Descripción: En Solidworks creamos una matriz de alguna pieza de nuesyra elección para poder crear un molde de aquella pieza. El procesos consistía en crear unas matrices de cada mitad de una pieza (importante que tuviera una entrada de aire) , para luego con el router CNC crear las matrices en espuma rosa para luego juntar las dos mitades y a travez de un orificio (no la entrada del aire) que debimos crear en Solidworks previamente, luego encima de la matriz hechamos una mezcla y esperamos a que endureza, una vez listo ya tendriamos los moldes de nuestra pieza.
 
-
+<img src="./recursos/imgs/CNC1.jpeg" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/CNC2.jpeg" alt="Diagrama del sistema" width="300">
 
 
 
@@ -304,12 +305,11 @@
 <img src="./recursos/imgs/CNC1.jpeg" alt="Diagrama del sistema" width="300">
 <img src="./recursos/imgs/CNC2.jpeg" alt="Diagrama del sistema" width="300">
 
-
+<video controls width="300">
+ <source src="./recursos/archivos/VideoCNC.mp4" type="video/mp4">
+</video>
 
 <img src="./recursos/imgs/ImagenTabla.png" alt="Diagrama del sistema" width="300">
-
-
-
 
 
 
