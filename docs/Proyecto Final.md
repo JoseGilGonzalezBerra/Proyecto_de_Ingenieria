@@ -34,10 +34,10 @@ Como proyecto de final de Semestre el profesor nos dio un proyecto que recopilar
 
 ## Archivos del Proyecto
 
-[Ensamble de Catapulta](../recursos/archivos/CATAPULTA.SLDASM)
-[Base de la Catapulta](../recursos/archivos/BASE.SLDPRT)
-[Accionador de la Catapulta](../recursos/archivos/PLUNGER.SLDPRT)
-[Brazo de la Catapulta](../recursos/archivos/ARM.SLDPRT)
+- [Ensamble de Catapulta](../recursos/archivos/CATAPULTA.SLDASM)
+- [Base de la Catapulta](../recursos/archivos/BASE.SLDPRT)
+- [Accionador de la Catapulta](../recursos/archivos/PLUNGER.SLDPRT)
+- [Brazo de la Catapulta](../recursos/archivos/ARM.SLDPRT)
 
 
 
