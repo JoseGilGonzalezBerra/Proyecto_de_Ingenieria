@@ -318,11 +318,13 @@
 
 # **Semana 12**
 
-## "Ejercicio Solidwork"
+## "Ejercicios Solidwork"
 
 - Descripcion: Entrega de los 40 Ejercicio de Solidwork enviados por el profesor.
   
 **1.- Ejercicio 1**
+
+
 
 
 
