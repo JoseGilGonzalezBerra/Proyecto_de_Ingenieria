@@ -324,132 +324,132 @@
   
 **1.- Ejercicio 1**
 
-<img src="./recursos/imgs/EjercicioGil_1" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_1.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 1](recursos/archivos/EjercicioGil_1)  
 
 **2.- Ejercicio 2**
 
-<img src="./recursos/imgs/EjercicioGil_2" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_2.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 2](recursos/archivos/EjercicioGil_2)  
 
 **3.- Ejercicio 3**
 
-<img src="./recursos/imgs/EjercicioGil_3" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_3.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 3](recursos/archivos/EjercicioGil_3)  
 
 **4.- Ejercicio 4**
 
-<img src="./recursos/imgs/EjercicioGil_4" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_4.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 4](recursos/archivos/EjercicioGil_4)  
 
 **5.- Ejercicio 5**
 
-<img src="./recursos/imgs/EjercicioGil_5" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_5.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 5](recursos/archivos/EjercicioGil_5)  
 
 **6.- Ejercicio 6**
 
-<img src="./recursos/imgs/EjercicioGil_6" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_6.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 6](recursos/archivos/EjercicioGil_6)  
 
 **7.- Ejercicio 7**
 
-<img src="./recursos/imgs/EjercicioGil_7" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_7.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 7](recursos/archivos/EjercicioGil_7)  
 
 **8.- Ejercicio 8**
 
-<img src="./recursos/imgs/EjercicioGil_8" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_8.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 8](recursos/archivos/EjercicioGil_8)  
 
 **9.- Ejercicio 9**
 
-<img src="./recursos/imgs/EjercicioGil_9" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_9.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 9](recursos/archivos/EjercicioGil_9)  
 
 **10.- Ejercicio 10**
 
-<img src="./recursos/imgs/EjercicioGil_10" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_10.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 10](recursos/archivos/EjercicioGil_10)  
 
 **11.- Ejercicio 11**
 
-<img src="./recursos/imgs/EjercicioGil_11" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_11.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 11](recursos/archivos/EjercicioGil_11)  
 
 **12.- Ejercicio 12**
 
-<img src="./recursos/imgs/EjercicioGil_12" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_12.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 12](recursos/archivos/EjercicioGil_12)  
 
 **13.- Ejercicio 13**
 
-<img src="./recursos/imgs/EjercicioGil_13" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_13.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 13](recursos/archivos/EjercicioGil_13)  
 
 **14.- Ejercicio 14**
 
-<img src="./recursos/imgs/EjercicioGil_14" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_14.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 14](recursos/archivos/EjercicioGil_14)  
 
 **15.- Ejercicio 15**
 
-<img src="./recursos/imgs/EjercicioGil_15" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_15.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 15](recursos/archivos/EjercicioGil_15)  
 
 **18.- Ejercicio 18**
 
-<img src="./recursos/imgs/EjercicioGil_18" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_18.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 18](recursos/archivos/EjercicioGil_18)  
 
 **19.- Ejercicio 19**
 
-<img src="./recursos/imgs/EjercicioGil_19" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_19.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 19](recursos/archivos/EjercicioGil_19)  
 
 **20.- Ejercicio 20**
 
-<img src="./recursos/imgs/EjercicioGil_20" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_20.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 20](recursos/archivos/EjercicioGil_20) 
 
 **22.- Ejercicio 22**
 
-<img src="./recursos/imgs/EjercicioGil_22" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_22.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 22](recursos/archivos/EjercicioGil_22) 
 
 **24.- Ejercicio 24**
 
-<img src="./recursos/imgs/EjercicioGil_24" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_24.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 24](recursos/archivos/EjercicioGil_24) 
 
 **25.- Ejercicio 25**
 
-<img src="./recursos/imgs/EjercicioGil_25" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_25.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 25](recursos/archivos/EjercicioGil_25) 
 
 **28.- Ejercicio 28**
 
-<img src="./recursos/imgs/EjercicioGil_28" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_28.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 28](recursos/archivos/EjercicioGil_28) 
 
 **31.- Ejercicio 31**
 
-<img src="./recursos/imgs/EjercicioGil_31" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_31.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 31](recursos/archivos/EjercicioGil_31) 
 
 **32.- Ejercicio 32**
 
-<img src="./recursos/imgs/EjercicioGil_32" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_32.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 32](recursos/archivos/EjercicioGil_32) 
 
 **33.- Ejercicio 33**
 
-<img src="./recursos/imgs/EjercicioGil_33" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_33.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 33](recursos/archivos/EjercicioGil_33) 
 
 **37.- Ejercicio 37**
 
-<img src="./recursos/imgs/EjercicioGil_37" alt="Diagrama del sistema" width="300">
+<img src="./recursos/imgs/EjercicioGil_37.png" alt="Diagrama del sistema" width="300">
 [Ejercicio 37](recursos/archivos/EjercicioGil_37)
 
 
