@@ -450,7 +450,10 @@
 **37.- Ejercicio 37**
 
 <img src="./recursos/imgs/EjercicioGil_37.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 37](recursos/archivos/EjercicioGil_37.SLDPRT)
+
+[Muñeco3D Archivo en Gcode](recursos/archivos/CE3S1PRO_Pieza3D_MuñecoGil.gcode)
 
 
 
