@@ -325,6 +325,133 @@
 **1.- Ejercicio 1**
 
 
+[Ejercicio 1](recursos/archivos/EjercicioGil_1)  
+
+**2.- Ejercicio 2**
+
+
+[Ejercicio 2](recursos/archivos/EjercicioGil_2)  
+
+**3.- Ejercicio 3**
+
+
+[Ejercicio 3](recursos/archivos/EjercicioGil_3)  
+
+**4.- Ejercicio 4**
+
+
+[Ejercicio 4](recursos/archivos/EjercicioGil_4)  
+
+**5.- Ejercicio 5**
+
+
+[Ejercicio 5](recursos/archivos/EjercicioGil_5)  
+
+**6.- Ejercicio 6**
+
+
+[Ejercicio 6](recursos/archivos/EjercicioGil_6)  
+
+**7.- Ejercicio 7**
+
+
+[Ejercicio 7](recursos/archivos/EjercicioGil_7)  
+
+**8.- Ejercicio 8**
+
+
+[Ejercicio 8](recursos/archivos/EjercicioGil_8)  
+
+**9.- Ejercicio 9**
+
+
+[Ejercicio 9](recursos/archivos/EjercicioGil_9)  
+
+**10.- Ejercicio 10**
+
+
+[Ejercicio 10](recursos/archivos/EjercicioGil_10)  
+
+**11.- Ejercicio 11**
+
+
+[Ejercicio 11](recursos/archivos/EjercicioGil_11)  
+
+**12.- Ejercicio 12**
+
+
+[Ejercicio 12](recursos/archivos/EjercicioGil_12)  
+
+**13.- Ejercicio 13**
+
+
+[Ejercicio 13](recursos/archivos/EjercicioGil_13)  
+
+**14.- Ejercicio 14**
+
+
+[Ejercicio 14](recursos/archivos/EjercicioGil_14)  
+
+**15.- Ejercicio 15**
+
+
+[Ejercicio 15](recursos/archivos/EjercicioGil_15)  
+
+**18.- Ejercicio 18**
+
+
+[Ejercicio 18](recursos/archivos/EjercicioGil_18)  
+
+**19.- Ejercicio 19**
+
+
+[Ejercicio 19](recursos/archivos/EjercicioGil_19)  
+
+**20.- Ejercicio 20**
+
+
+[Ejercicio 20](recursos/archivos/EjercicioGil_20) 
+
+**22.- Ejercicio 22**
+
+
+[Ejercicio 22](recursos/archivos/EjercicioGil_22) 
+
+**24.- Ejercicio 24**
+
+
+[Ejercicio 24](recursos/archivos/EjercicioGil_24) 
+
+**25.- Ejercicio 25**
+
+
+[Ejercicio 25](recursos/archivos/EjercicioGil_25) 
+
+**28.- Ejercicio 28**
+
+
+[Ejercicio 28](recursos/archivos/EjercicioGil_28) 
+
+**31.- Ejercicio 31**
+
+
+[Ejercicio 31](recursos/archivos/EjercicioGil_31) 
+
+**32.- Ejercicio 32**
+
+
+[Ejercicio 32](recursos/archivos/EjercicioGil_32) 
+
+**33.- Ejercicio 33**
+
+
+[Ejercicio 33](recursos/archivos/EjercicioGil_33) 
+
+**37.- Ejercicio 37**
+
+
+[Ejercicio 37](recursos/archivos/EjercicioGil_37)
+
 
 
 
