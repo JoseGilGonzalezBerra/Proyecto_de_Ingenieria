@@ -325,126 +325,151 @@
 **1.- Ejercicio 1**
 
 <img src="./recursos/imgs/EjercicioGil_1.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 1](recursos/archivos/EjercicioGil_1.SLDPRT)  
 
 **2.- Ejercicio 2**
 
 <img src="./recursos/imgs/EjercicioGil_2.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 2](recursos/archivos/EjercicioGil_2.SLDPRT)  
 
 **3.- Ejercicio 3**
 
 <img src="./recursos/imgs/EjercicioGil_3.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 3](recursos/archivos/EjercicioGil_3.SLDPRT)  
 
 **4.- Ejercicio 4**
 
 <img src="./recursos/imgs/EjercicioGil_4.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 4](recursos/archivos/EjercicioGil_4.SLDPRT)  
 
 **5.- Ejercicio 5**
 
 <img src="./recursos/imgs/EjercicioGil_5.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 5](recursos/archivos/EjercicioGil_5.SLDPRT)  
 
 **6.- Ejercicio 6**
 
 <img src="./recursos/imgs/EjercicioGil_6.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 6](recursos/archivos/EjercicioGil_6.SLDPRT)  
 
 **7.- Ejercicio 7**
 
 <img src="./recursos/imgs/EjercicioGil_7.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 7](recursos/archivos/EjercicioGil_7.SLDPRT)  
 
 **8.- Ejercicio 8**
 
 <img src="./recursos/imgs/EjercicioGil_8.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 8](recursos/archivos/EjercicioGil_8.SLDPRT)  
 
 **9.- Ejercicio 9**
 
 <img src="./recursos/imgs/EjercicioGil_9.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 9](recursos/archivos/EjercicioGil_9.SLDPRT)  
 
 **10.- Ejercicio 10**
 
 <img src="./recursos/imgs/EjercicioGil_10.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 10](recursos/archivos/EjercicioGil_10.SLDPRT)  
 
 **11.- Ejercicio 11**
 
 <img src="./recursos/imgs/EjercicioGil_11.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 11](recursos/archivos/EjercicioGil_11.SLDPRT)  
 
 **12.- Ejercicio 12**
 
 <img src="./recursos/imgs/EjercicioGil_12.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 12](recursos/archivos/EjercicioGil_12.SLDPRT)  
 
 **13.- Ejercicio 13**
 
 <img src="./recursos/imgs/EjercicioGil_13.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 13](recursos/archivos/EjercicioGil_13.SLDPRT)  
 
 **14.- Ejercicio 14**
 
 <img src="./recursos/imgs/EjercicioGil_14.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 14](recursos/archivos/EjercicioGil_14.SLDPRT)  
 
 **15.- Ejercicio 15**
 
 <img src="./recursos/imgs/EjercicioGil_15.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 15](recursos/archivos/EjercicioGil_15.SLDPRT)  
 
 **18.- Ejercicio 18**
 
 <img src="./recursos/imgs/EjercicioGil_18.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 18](recursos/archivos/EjercicioGil_18.SLDPRT)  
 
 **19.- Ejercicio 19**
 
 <img src="./recursos/imgs/EjercicioGil_19.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 19](recursos/archivos/EjercicioGil_19.SLDPRT)  
 
 **20.- Ejercicio 20**
 
 <img src="./recursos/imgs/EjercicioGil_20.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 20](recursos/archivos/EjercicioGil_20.SLDPRT) 
 
 **22.- Ejercicio 22**
 
 <img src="./recursos/imgs/EjercicioGil_22.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 22](recursos/archivos/EjercicioGil_22.SLDPRT) 
 
 **24.- Ejercicio 24**
 
 <img src="./recursos/imgs/EjercicioGil_24.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 24](recursos/archivos/EjercicioGil_24.SLDPRT) 
 
 **25.- Ejercicio 25**
 
 <img src="./recursos/imgs/EjercicioGil_25.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 25](recursos/archivos/EjercicioGil_25.SLDPRT) 
 
 **28.- Ejercicio 28**
 
 <img src="./recursos/imgs/EjercicioGil_28.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 28](recursos/archivos/EjercicioGil_28.SLDPRT) 
 
 **31.- Ejercicio 31**
 
 <img src="./recursos/imgs/EjercicioGil_31.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 31](recursos/archivos/EjercicioGil_31.SLDPRT) 
 
 **32.- Ejercicio 32**
 
 <img src="./recursos/imgs/EjercicioGil_32.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 32](recursos/archivos/EjercicioGil_32.SLDPRT) 
 
 **33.- Ejercicio 33**
 
 <img src="./recursos/imgs/EjercicioGil_33.png" alt="Diagrama del sistema" width="300">
+
 [Ejercicio 33](recursos/archivos/EjercicioGil_33.SLDPRT) 
 
 **37.- Ejercicio 37**
@@ -452,8 +477,6 @@
 <img src="./recursos/imgs/EjercicioGil_37.png" alt="Diagrama del sistema" width="300">
 
 [Ejercicio 37](recursos/archivos/EjercicioGil_37.SLDPRT)
-
-[Muñeco3D Archivo en Gcode](recursos/archivos/CE3S1PRO_Pieza3D_MuñecoGil.gcode)
 
 
 
